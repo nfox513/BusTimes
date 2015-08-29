@@ -1,0 +1,20 @@
+GetBusTimesIntent when the next bus is coming
+GetBusTimesIntent when is the next bus coming
+GetBusTimesIntent when the next buses are coming
+GetBusTimesIntent when are the next buses coming
+GetBusTimesIntent next bus
+
+HelpIntent help
+HelpIntent help me
+HelpIntent what can I ask you
+HelpIntent get help
+HelpIntent what commands can I ask
+HelpIntent what commands can I say
+HelpIntent what can I do
+HelpIntent what can I use this for
+HelpIntent what questions can I ask
+HelpIntent what can you do
+HelpIntent what do you do
+HelpIntent how do I use you
+HelpIntent how can I use you
+HelpIntent what can you tell me

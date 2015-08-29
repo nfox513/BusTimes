@@ -1,0 +1,12 @@
+{
+  "intents": [
+    {
+      "intent": "GetBusTimesIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+ }
