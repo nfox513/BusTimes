@@ -8,7 +8,7 @@ To run this skill you need to do two things. The first is to deploy the code in 
 1. Go to the AWS Console and click on the Lambda link. Note: ensure you are in us-east or you won't be able to use Alexa with Lambda.
 2. Click on the Create a Lambda Function or Get Started Now button.
 3. Name the Lambda Function “Bus_Times_Skill”.
-4. Go to the the src directory, select all files and then create a zip file, make sure the zip file does not contain the src directory itself, otherwise Lambda function will not work.
+4. Go to the src directory, select all files and then create a zip file, make sure the zip file does not contain the src directory itself, otherwise Lambda function will not work.
 5. Upload the .zip file to the Lambda
 6. Keep the Handler as index.handler (this refers to the main js file in the zip).
 7. Create a basic execution role and click create.
